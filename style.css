@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#box{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: 2px solid blue;
+    margin: auto;
+    border-radius: 12px;
+}
+
+
+
+.box__text{
+    padding: 70px;
+}
+#circle{
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    border: 2px solid blue;
+    margin: auto;
+    border-radius: 175px;
+}
+
+.circle__text{
+    padding: 100px;
+}
